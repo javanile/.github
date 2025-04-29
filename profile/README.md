@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://javanile.org" target="_blank">
-<img src="javanile-landing.png"/>
+<img src="javanile-landing.jpg"/>
 </a>
 
 <h1>Javanile is an open source community project</h1>
