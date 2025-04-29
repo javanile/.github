@@ -9,7 +9,7 @@
 We are also an Agile Development Team distributed over the World but with one physical headquarter in [Sicily](https://en.wikipedia.org/wiki/Sicily).  
 The whole team shares a passion for CI/CD technologies.
 
-<a href="https://github.com/javanile/become-maintainer?tab=readme-ov-file"><img src="button-become-maintainer.png" /></a>
+<a href="https://github.com/javanile/become-maintainer?tab=readme-ov-file"><img src="button-become-maintainer-2.png" /></a>
 
 <!--a href="https://www.buymeacoffee.com/francescobianco"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=francescobianco&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a-->
 
